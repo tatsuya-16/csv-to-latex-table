@@ -34,7 +34,7 @@ python csv_to_latex.py --input_file 入力.csv --output_file 出力.tex --captio
 
 ## 例
 
-### 入力CSV（`データ.csv`）
+### 入力CSV（`data.csv`）
 ```
 名前,年齢,都市,国,職業
 太郎,30,東京,日本,エンジニア
@@ -43,10 +43,10 @@ python csv_to_latex.py --input_file 入力.csv --output_file 出力.tex --captio
 
 ### コマンド
 ```bash
-python csv_to_latex.py --input_file データ.csv --output_file テーブル.tex --caption "サンプルデータ" --label "tab:サンプル" --columns "|l|c|l|l|l|"
+python csv_to_latex.py --input_file data.csv --output_file table.tex --caption "サンプルデータ" --label "tab:サンプル" --columns "|l|c|l|l|l|"
 ```
 
-### 生成されるLaTeXの出力（`テーブル.tex`）
+### 生成されるLaTeXの出力（`table.tex`）
 ```latex
 \begin{table}[ht]
     \centering
