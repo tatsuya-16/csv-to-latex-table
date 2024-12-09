@@ -26,7 +26,7 @@ python csv_to_latex.py --input_file 入力.csv --output_file 出力.tex --captio
 ### コマンドライン引数
 
 - `--input_file`: 入力CSVファイルのパス（必須）
-- `--output_file`: 出力テキストファイルのパス（必須）
+- `--output_file`: 出力TEXファイルのパス（必須）
 - `--caption`: LaTeXテーブルのキャプション文字（必須）
 - `--label`: LaTeXドキュメント内で参照するためのラベル（必須）
 - `--columns`: 列のフォーマット文字列（必須）
