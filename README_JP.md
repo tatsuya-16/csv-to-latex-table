@@ -65,6 +65,9 @@ python csv_to_latex.py --input_file データ.csv --output_file テーブル.tex
 \end{table}
 ```
 
+### コンパイル結果
+<img width="287" alt="スクリーンショット 2024-12-09 20 52 41" src="https://github.com/user-attachments/assets/9643b9fa-04fa-4e87-b08f-2b3f1f373fed">
+
 ## 注意点
 
 - スクリプトは出力ファイルに追記するため，実行前に出力ファイルが空またはない状態であることを確認してください
