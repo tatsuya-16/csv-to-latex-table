@@ -1,4 +1,4 @@
-# CSV to LaTeXテーブルコンバーター
+# CSV to LaTeX tableコンバーター
 
 ## 概要
 
