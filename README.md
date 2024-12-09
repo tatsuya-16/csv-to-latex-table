@@ -1,4 +1,5 @@
 # CSV to LaTeX Table Converter
+[日本語版README](https://github.com/tatsuya-16/csv-to-latex-table/blob/main/README_JP.md)
 
 ## Overview
 
